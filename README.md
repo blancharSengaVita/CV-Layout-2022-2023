@@ -4,8 +4,8 @@ Ce projet a été réalisé dans le cadre du cours de Design Web. Le but est de 
 
 Voici le [Site de référence](https://conceptstudio.com/en/).
 
-Voice un [screencast](#) qui vous permet de voir tous les effets présents sur le site
+Voici un [screencast](https://youtu.be/bkNXcMd_clw) qui vous permettra de voir tous les effets et fonctionnalités présents sur le site
 
-Voice le [layout](#) conçu sur adobe XD
+Voici le [layout](https://xd.adobe.com/view/eb52861a-fb61-47d1-8334-0b7f560bdaf2-be01/) conçu sur adobe XD
 
 
